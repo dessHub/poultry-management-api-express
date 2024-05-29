@@ -1,0 +1,24 @@
+{
+  "name": "poultry-management-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dessHub/poultry-management-api-express.git"
+  },
+  "keywords": [
+    "Express",
+    "js",
+    "PostgreSQL"
+  ],
+  "author": "desmond.korir28@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dessHub/poultry-management-api-express/issues"
+  },
+  "homepage": "https://github.com/dessHub/poultry-management-api-express#readme"
+}
